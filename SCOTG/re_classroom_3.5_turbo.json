@@ -1,0 +1,162 @@
+{
+  "listening": [
+    "- (student, sitting at, front of classroom)\n- (student, listening attentively to, teacher's instructions)",
+    "- student, sitting at, front of classroom\n- student, listening attentively to, teacher's instructions\n- student, jotting down notes in, notebook",
+    "(), (diligent student, positioned at, front of the classroom), (), (student, leaning slightly forward in their chair), (eyes, focused intently on teacher), (), (student, nod in understanding), (), (they, raise their hand), (to ask, question), (they, displaying engagement with lesson)."
+  ],
+  "reading": [
+    "(student, reading, textbook)",
+    "(), (student, reading, textbook), (), (teacher, pacing around, observing class), ()",
+    "( student, was reading, textbook)\n( student, occasionally looking up, teacher)\n( student, underlining, important information)\n( student, was seated, desk)\n( frown, appears on, face)"
+  ],
+  "using_phone": [
+    "( student, using, phone )\n( student, using, phone discreetly )\n( student, using, phone under desk )\n( student, using, phone discreetly under desk )\n( student, using, phone under desk in classroom )",
+    "( student, is using, phone )\n( student, is surreptitiously using, phone )\n( student, exchanging, quick glances )\n( student, exchanging, quick glances with teacher )\n( student, is exchanging, quick glances with teacher )",
+    "(The student, is hunched over, their desk)\n(The student, is covertly using, the phone)\n(The student, is tapping, their foot)\n(The ambient sound, of pencils scratching, on paper)\n(The ambient sound, is in rhythm, with the foot tapping)"
+  ],
+  "using_pad": [
+    "(teacher, writing, notes)\n(teacher, using, pad)\n(teacher, writing, on whiteboard)\n(teacher, in, classroom)",
+    "(teacher, writing, vocabulary words)\n(teacher, using, pad)\n(teacher, writing, on whiteboard)\n(students, taking, notes in notebooks)\n(students, eagerly, taking notes)",
+    "(teacher, standing at, front of room) \n(teacher, jotting down, key points on whiteboard)\n(students, leaning in attentively, soaking up information)\n(teacher, occasionally glancing back at, eager students)\n(students, furiously scribbling notes in, notebooks)"
+  ],
+  "using_computers": [
+    "( student, using, computers)",
+    "( diligent student, is using, computers)\n( classmates, eagerly watch, diligent student)\n( classmates, ask, questions)",
+    "( student, is using, computers)\n( student, is seated at, desk)\n( student, has, focused expression)\n( student, glances up to share, smile)\n( student, glances up to share, nod of encouragement)"
+  ],
+  "scratching_head": [
+    "(), (student sitting in the front row, scratching their head, in confusion)",
+    "(The student, sitting, in the front row)\n(The student, scratching, their head in confusion)\n(The teacher, gesturing, animatedly at the chalkboard)\n(The teacher, gesturing, at the chalkboard behind them)\n(The teacher, gesturing, animatedly)",
+    "(), (student sitting, is scratching their head, in confusion), (student, is glancing back-and-forth, between the textbook and the teacher's animated gestures), (student, has eyes squinting), (student, is in the front row)"
+  ],
+  "writing": [
+    "(The student, writing, notes)",
+    "(), (diligent student, writing, notes), (diligent student, writing, on desk), (diligent student, writing, by the window), (classmates, chat, around them), (classmates, chat, in crowded classroom)",
+    "(), (student, sits upright), (student, writing, notes), (student, steal, glances), (discussions, around classmates), (student, nodding)"
+  ],
+  "talking": [
+    "(students, talking, loudly)",
+    "(Students, are talking loudly, in the classroom)\n(Teacher, is writing, on the whiteboard)",
+    "(teacher, writes, on whiteboard)\n(students, are talking loudly, in classroom)\n(students, are leaning in, towards each other)\n(students, have animated expressions)\n(teacher, has focused expression)"
+  ],
+  "standing": [
+    "( student, standing in, back of classroom )\n( student, eagerly waiting to ask, question )",
+    "(Shy student, standing nervously, by teacher's desk)\n(Shy student, waiting eagerly, to ask question)",
+    "(), (shy student, is standing, by the teacher's desk), (), (shy student, is twirling, a pen between their fingers), (shy student, is glancing, around anxiously), (), (lively discussions, are happening, around them)"
+  ],
+  "sleeping": [
+    "(teacher, is sleeping, on the desk)\n(teacher, is sleeping, in the empty classroom)",
+    "(teacher, is sleeping, on cluttered desk)\n(teacher, is sleeping, peacefully)\n(teacher, is sleeping, in empty classroom)\n(teacher, is sleeping, with students' textbooks spread open)\n(afternoon sun, streams in, through window)",
+    "1. (teacher, is sleeping, slumped over the cluttered desk)\n2. (their hand, is reaching out, to a stack of papers)\n3. (teacher, breathe softly)\n4. (faint smile, plays on their lips)\n5. (teacher, dream of their students' laughter)"
+  ],
+  "teaching": [
+    "(teacher, is teaching, students)\n(classroom, is bustling, null)",
+    "(teacher, teaching, students)\n(classroom pet, watching, students)\n(classroom pet, watching, corner)\n(teacher, energetic, teaching)\n(classroom, colorful)",
+    "(), (teacher, is standing, front of vibrant, bustling classroom),\n(teacher, gesticulating enthusiastically, while teaching students),\n(teacher, pointing at examples, walls),\n(teacher's eyes, light up, with excitement),\n(teacher's eyes, reflecting, dynamic energy of learning environment)"
+  ],
+  "yawning": [
+    "(), (students, were yawning), (), (), ()",
+    "(), (students, were yawning), (), (teacher's voice, droned on), ()",
+    "(Students, slumped at desk in classroom), (students, yawning and rubbing tired eyes), (some, tapping pencils against desk), (pencils, tapping to rhythmic flow of teacher's lecture), (teacher, giving monotonous lecture)"
+  ],
+  "walking": [
+    "(Mark, is walking to, front of the classroom)",
+    "(Mark, is walking, to the front of the classroom)\n(Mark, passing by, his classmates)\n(his classmates, are studying, diligently at their desks)",
+    "( Mark, walks to, front of the classroom)\n( Mark, passing by, his classmates)\n( classmates, glance up from, their textbooks)\n( classmates, exchanging nods of acknowledgment, he)\n( he, makes way to, teacher's desk)"
+  ],
+  "relaxing": [
+    "(student, is relaxing, after finishing the exam)\n(student, is in, quiet classroom)",
+    "( student, is relaxing by listening to calming music on headphones )\n( student, finished exam )\n( classmates, quietly discuss questions )\n( classmates, are in quiet classroom )\n( student, is in quiet classroom )",
+    "1. (student, is relaxing by leaning back in their chair)\n2. (student, has a content smile on their face)\n3. (classmates, discuss the questions)\n4. (classmates, occasionally glance over at the student)\n5. (student, listen to calming music on their headphones)"
+  ],
+  "analyzing": [
+    "(The student, is analyzing, the data)",
+    "( student, is analyzing, data)\n( student, with the help of, classmate)",
+    "( student, intently analyzing, data )\n( student, occasionally jotting down, notes )\n( student, exchanging, thoughtful glances )\n( student, showing, deep engagement )\n( student, with, task at hand )"
+  ],
+  "taking_bottle": [
+    "- (Lily, is taking, bottle)\n- (Lily, is taking, from bag)\n- (Lily, is taking, bottle from her bag)",
+    "( Lily, takes, bottle)\n( Lily, takes, bottle from bag)\n( Lily, takes, bottle from colorful bag)\n( classmates, watch, Lily)\n( classmates, watch, Lily carefully)",
+    "- Lily reaches into her vibrant bag\n- Lily retrieves the bottle\n- Lily acknowledges the curious gazes of her classmates\n- Lily returns her focus to the task at hand\n- Lily glances around the room"
+  ],
+  "gathering_up_bag": [
+    "(Emily, is gathering up, her bag)",
+    "(Emily, is gathering up, bag)\n(Emily, is gathering up, her bag)\n(classmates, watch, Emily)\n(classmates, watch, curiously)",
+    "(Emily, is gathering up, her bag)\n(Emily, is scanning, the room for her textbook)\n(Emily, is chatting, with a friend nearby)\n(her hand, is tapping, on the desk in front of her)\n(Eyes, are scanning, the room)"
+  ],
+  "drinking": [
+    "( student, drinking, water )\n( student, drinking, water from bottle )\n( student, drinking, water from bottle in classroom )",
+    "( student, is refreshing themselves, by drinking cold water from a reusable bottle)\n( classmates, focus, on the teacher's lecture)",
+    "(studious student, quenches thirst, with sips of cold water)\n(studious student, seated, attentively at desk)\n(studious student, nodding, in agreement)"
+  ],
+  "taking_photos": [
+    "( student, is taking, photos of the teacher )\n( student, is sitting at, desk )\n( student, is taking, photos )\n( student, is taking, photos of the teacher in the classroom )",
+    "( student, is taking, photos)\n( student, is sitting, at desk)\n( student, is sitting, near window)\n( classmates, look on, with curiosity)\n( classmates, look on, student)",
+    "(), (student, leans forward slightly, desk near window), (student, holding camera), (student, capturing teacher's animated expression), (classmate, nudges student's arm)"
+  ],
+  "listening_to_music": [
+    "( Lily, is listening to, music )\n( Lily, on, headphones )",
+    "( Lily, is listening to music, on her headphones)\n( Lily, oblivious to, her classmates chatting around her)\n( Lily, oblivious to, the teacher writing, on the whiteboard)",
+    "( Lily, is leaning back, at her desk)\n( Lily, is listening to music, on her headphones)\n( Lily, appears, to be enjoying the music)\n( classmates, are chatting, in the background)\n( teacher's voice, is explaining, the lesson)"
+  ],
+  "discussing": [
+    "(Students, are discussing, project requirements)\n(Students, are discussing, in a crowded classroom)",
+    "(Students, are discussing, project requirements)\n(Students, are gesturing, excitedly)\n(Classroom, is filled with, lively conversations)\n(Classroom, is filled with, echoing chatter)\n(Classroom, is crowded)",
+    "(Students, are leaning forward, in their seats)\n(Students, are eagerly discussing, project requirements)\n(Students, are maintaining, eye contact)\n(Students, are nodding, in agreement)\n(Classroom, is crowded, with papers shuffling and pens clicking)"
+  ],
+  "setting_equipment": [
+    "(The teacher, is setting up, the equipment)\n(The teacher, is setting up, the equipment for the science experiment)\n(The teacher, is setting up, the equipment for the science experiment in a high school classroom) \n(The equipment, is being set up, for the science experiment)\n(The equipment, is being set up, in a high school classroom)",
+    "(teacher, is setting up, equipment)\n(teacher, is setting up, equipment for experiment)\n(students, watching, teacher)",
+    "(teacher, stands at, front),\n(teacher, setting up, equipment),\n(teacher, arranging, beakers and test tubes),\n(teacher, periodically glancing up, to explain the process),\n(students, faces reflecting, mix of anticipation and fascination)"
+  ],
+  "taking_bag": [
+    "(teacher, taking, bag)\n(she, taking, bag)",
+    "(she, takes, bag)\n(she, avoiding, collision)\n(she, with, classmates)",
+    "(), (she, reaches, for her bag), (she, maneuvering, around desks and backpacks), (she, glance towards the teacher), (she, eager, to begin the lesson)"
+  ],
+  "blackboard_writing": [
+    "(The teacher, carefully [blackboard writing], important notes)\n(The students, watch attentively, the teacher)",
+    "(teacher, meticulously writing, important notes)\n(students, eagerly copying, notes)",
+    "(teacher, stands upright, near blackboard)\n(teacher, writing, important notes)\n(teacher, occasionally turning, to glance at students)\n(teacher, nodding, in satisfaction)\n(students, eagerly jotting down, information)"
+  ],
+  "blackboard_wiping": [
+    "(teacher, blackboard_wiping, chalkboard)",
+    "(), (teacher, blackboard_wiping, chalkboard), (), (students, eagerly watch, teacher), (), ()",
+    "- teacher, stands at, front of room\n- teacher, fully engrossed in, blackboard wiping\n- students, follow, each swish of the chalk brush\n- students, eyes wide with, anticipation\n- students, follow, each swish of the chalk brush"
+  ],
+  "taking_off": [
+    "( student, taking off, coat )",
+    "( student, taking off, coat)\n( student, reveal, brightly colored sweater)\n( classmates, watching, student)\n( student, is, eager)\n( student, is, in vibrant classroom)",
+    "( student, is taking off, coat)\n( student, glance around, classmates)\n( student, hang, coat on back of chair)\n( classmates, chuckle at, enthusiasm)\n( student, has, big smile)"
+  ],
+  "student_demonstrating": [
+    "( student, demonstrating, experiment)\n( student, stood, front of classroom)",
+    "( student, demonstrated, experiment )\n( student, holding, beaker of colorful liquid )\n( student, demonstrated, experiment to attentive classmates )\n( student, holding, beaker )\n( student, demonstrated, experiment to classmates )",
+    "- student, gesturing excitedly, while pointing to bubbling reaction\n- student, captured attention, classmates\n- classmates, leaned in, with curiosity\n- classmates, at front, of classroom"
+  ],
+  "eating": [
+    "(Alice, eating, lunch)",
+    "(Alice, is eating, her lunch)\n(Alice, is watched by, classmates)\n(classmates, watch, Alice)",
+    "(Alice, eating, her lunch),\n(Alice, sitting, at her desk),\n(Alice, glancing, around),\n(Alice, acknowledging, her classmates' curious gazes),\n(Alice, nodding, friendly)."
+  ],
+  "reviewing": [
+    "( student, is reviewing, their notes)\n( student, in, a quiet study session)\n( student, in, the classroom)",
+    "(diligent student, is reviewing, notes)\n(diligent student, is, quietly)\n(classmates, discuss, lesson)\n(classmates, discuss, lesson in pairs)\n(classmates, discuss, bustling classroom)",
+    "- student, is hunched over, desk\n- student, is furrowing, brows\n- student, is reviewing, notes\n- student, is occasionally glancing up, classmates\n- discussion, is between, classmates"
+  ],
+  "handsup": [
+    "(student, hands up, eagerly)\n(student, answer, teacher's question)",
+    "( student, hands up, in classroom)\n( student, catches attention, teacher)\n( student, earns smiles, classmates)",
+    "( student, raises hand, eagerly)\n( student, leans forward, slightly)\n( student, has smile, bright)\n( student, focuses on, teacher)\n( student, shows interest, genuine)"
+  ],
+  "speaking": [
+    "(teacher, is speaking to, students)",
+    "(teacher, speaking to, students)\n(teacher, writing, notes)\n(teacher, is, Ms. Smith)\n(classroom, bustling, animatedly)\n(teacher, enthusiastic, Ms. Smith)",
+    "(), (Ms. Smith, stands at, front near whiteboard), (Ms. Smith, speaks animatedly), (Ms. Smith, periodically glances at, students), (students, lean forward in, seats)"
+  ],
+  "picking_up_computers": [
+    "(teacher, picking up, computers)",
+    "(teacher, picking up, computers)\n(students, gathering around, teacher)",
+    "(teacher, is picking up, computers),\n(teacher, has, concentrated expression),\n(students, extend hands, to assist),\n(students, faces filled, with curiosity),\n(students, faces filled, with willingness)."
+  ]
+}

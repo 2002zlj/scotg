@@ -1,0 +1,167 @@
+{
+  "prompt": [
+    "Expand the verb '[{}]' into a full sentence by adding the subject and object, specifying the person performing the action and their immediate surroundings in a classroom.",
+    "Enhance the sentence by including objects or people directly interacting with the action.",
+    "Describe how the person is positioned or interacting with their surroundings while performing the action,including small gestures or reactions that reflect engagement with the classroom setting."
+  ],
+  "listening": [
+    "The teacher was attentively listening to the students as they answered questions in the bustling classroom.",
+    "The teacher, standing near the chalkboard, was attentively listening to the students as they eagerly answered questions in the bustling classroom, occasionally nodding and jotting down notes.",
+    "The teacher, leaning slightly against the front desk near the chalkboard, was attentively listening to the students' responses, his eyes scanning the classroom. As each student spoke, he nodded encouragingly, occasionally pushing his glasses up the bridge of his nose, and scribbled brief notes on a small pad, fully engaged with the vibrant discussions unfolding in the bustling classroom."
+  ],
+  "reading": [
+    "\"The student is reading a novel quietly in the bustling classroom.\"",
+    "\"The student is reading a novel quietly in the bustling classroom, occasionally looking up to watch the teacher explain a point on the whiteboard.\"",
+    "\"The student, seated in the back corner of the bustling classroom, is reading a novel quietly, her eyes intently scanning the pages. She occasionally nods in understanding or subtly furrows her brow, reflecting her engagement with the story, while also glancing up to watch the teacher gesture animatedly towards the whiteboard.\""
+  ],
+  "using_phone": [
+    "The teacher is using the phone at the desk in the front of the classroom.",
+    "The teacher, glancing at her notes, is using the phone at her desk in the front of the classroom while the students quietly work on their assignments.",
+    "The teacher, perched on the edge of her desk, is using the phone, intermittently pausing to scan the room and nod at students to affirm their silent queries while they diligently work on their assignments."
+  ],
+  "using_pad": [
+    "A student at the back of the classroom is using a pad to take notes during a lecture.",
+    "A focused student at the back of the classroom is using a digital pad to meticulously take notes during a lively lecture, while occasionally referencing a textbook lying beside her.",
+    "Seated comfortably at a corner desk in the back of the classroom, the student leans slightly forward, using a digital pad to take detailed notes. She occasionally looks up, nodding in understanding or furrowing her brows in concentration, as she listens intently to the professor's engaging lecture. Her left hand occasionally flips through pages of a textbook beside her, seeking clarification or additional information to supplement her notes."
+  ],
+  "using_computers": [
+    "Students are using computers to complete their assignments in the high school computer lab.",
+    "In the high school computer lab, groups of students are diligently using computers to complete their science projects while their teacher assists them with any technical issues.",
+    "In the bustling high school computer lab, students are intently positioned at their desks, leaning forward toward the screens as they use computers to navigate research websites for their science projects. Their fingers skillfully glide over the keyboards while they occasionally turn to whisper to a classmate or raise a hand to catch the teacher's attention for help. The teacher, moving through the aisles, pauses frequently to peer over shoulders, offering nods of encouragement or pointing out useful information on the screens."
+  ],
+  "scratching_head": [
+    "A student is scratching his head while trying to solve a math problem in a noisy classroom.",
+    "While trying to solve a complex math problem in a noisy classroom, a puzzled student is scratching his head, occasionally glancing at the equations on the whiteboard and seeking hints from his nearby classmates.",
+    "Seated at a cluttered desk in the back of the noisy classroom, a puzzled student absently scratches his head, squinting at the scribbled equations on the distant whiteboard. He leans forward slightly, shifting his papers around, occasionally nodding or frowning as he picks up snippets of explanations from a group discussion nearby, showing his silent struggle and engagement with the challenging math problem."
+  ],
+  "writing": [
+    "The teacher is writing math problems on the whiteboard in the bustling classroom.",
+    "The teacher is writing complex math problems on the whiteboard while students attentively jot down notes at their desks in the bustling classroom.",
+    "The teacher, standing confidently at the front of the bustling classroom, is writing complex math problems on the whiteboard. She pauses occasionally to adjust her glasses and scan the room, making eye contact and nodding encouragingly at students who are attentively jotting down notes and solving equations at their desks."
+  ],
+  "talking": [
+    "The teacher was talking to the students in the crowded classroom.",
+    "The teacher was talking to the attentive students about the upcoming test while pointing at the whiteboard in the bustling classroom.",
+    "While talking to the attentive students about the upcoming test, the teacher paced slowly in front of the whiteboard, occasionally gesturing towards key concepts displayed on it, and pausing to make eye contact with several students to ensure they were engaged."
+  ],
+  "standing": [
+    "Ms. Thompson is standing in front of the whiteboard in the classroom.",
+    "Ms. Thompson is standing in front of the whiteboard in the classroom, pointing to a math problem while the students watch attentively.",
+    "Ms. Thompson is standing confidently in front of the whiteboard in the classroom, pointing to a complex math problem with her right hand while holding a marker in her left. Her eyes scan the room, making contact with each student, encouraging them to think as she explains the steps involved in solving the equation. Small nods and smiles from the students show their engagement and understanding as she moves through the lesson."
+  ],
+  "sleeping": [
+    "The student was sleeping quietly at her desk in the corner of the classroom.",
+    "The student was sleeping quietly at her desk in the corner of the classroom, while her classmates worked diligently on their assignments around her.",
+    "The student was sleeping quietly at her desk in the corner of the classroom, her head resting on her folded arms, while her classmates worked diligently on their assignments around her. Occasionally, she would stir slightly or mumble in her sleep, but the gentle hum of activity and the soft ticking of the clock above seemed only to lull her deeper into slumber."
+  ],
+  "teaching": [
+    "The experienced teacher was teaching a group of eager high school students in a brightly-lit classroom.",
+    "The experienced teacher was enthusiastically teaching a group of eager high school students in a brightly-lit classroom, using a digital projector and interactive quizzes to enhance the learning experience.",
+    "The experienced teacher, standing at the front of the brightly-lit classroom, skillfully navigated between the interactive whiteboard and students' desks, gesturing animatedly and frequently checking in with individuals. She occasionally adjusted the digital projector and responded to students' questions with encouraging nods and thoughtful explanations, creating an engaging and dynamic learning environment."
+  ],
+  "yawning": [
+    "Mr. Thompson, seated at his desk while grading papers, is yawning as the classroom clock ticks monotonously.",
+    "Mr. Thompson, seated at his cluttered desk while grading a towering stack of papers, is yawning as the classroom clock ticks monotonously, much to the amusement of his students who are whispering and giggling quietly.",
+    "Seated lethargically at his cluttered desk, Mr. Thompson stifles a yawn behind a well-worn hand as he grades a towering stack of papers. His eyes briefly meet the classroom clock\u2019s slow ticking, drawing a heavy sigh. Catching the subtle whispers and subdued giggles of his students, he offers a weary smile and shakes his head lightly, attempting to refocus his attention on the papers in front of him."
+  ],
+  "walking": [
+    "Mr. Thompson was walking between the rows of desks, checking the students' progress on their math assignment.",
+    "Mr. Thompson was walking slowly between the rows of desks, occasionally pausing to lean over a student\u2019s shoulder to offer guidance on their math assignment.",
+    "Mr. Thompson walked thoughtfully between the rows of desks, his eyes scanning over the students' work. Every few steps, he stopped to adjust his glasses, nod cautiously, and jot small notes on his clipboard, offering a gentle smile or a word of encouragement to keep the students engaged and motivated."
+  ],
+  "relaxing": [
+    "The teacher is relaxing in her chair by the window, enjoying a quiet moment while the students read.",
+    "The teacher is relaxing in her chair by the window, sipping her coffee and enjoying a quiet moment while the students read silently at their desks.",
+    "The teacher is relaxing in her chair by the window, leaning back comfortably with her legs crossed. She sips her coffee slowly, occasionally glancing over her glasses to observe the students as they read silently at their desks, nodding in approval or offering a gentle smile whenever she notices a student deeply engrossed in their book."
+  ],
+  "analyzing": [
+    "The chemistry teacher is analyzing the experiment results at the lab table in the front of the classroom.",
+    "The chemistry teacher is analyzing the experiment results on her laptop, while students gather around the lab table in the front of the classroom, eagerly awaiting feedback.",
+    "The chemistry teacher, leaning slightly forward, peers intently at her laptop screen as she analyzes the experiment results. Occasionally, she looks up to explain a graph or a data point, using her hands to emphasize key concepts. Around her, students lean in closer, nodding and jotting down notes, visibly engaged in the learning process unfolding at the front of the classroom."
+  ],
+  "taking_bottle": [
+    "The teacher walked over to the shelf and started taking bottles of chemicals for the science experiment.",
+    "As curious students gathered around, the teacher carefully walked over to the shelf and started taking bottles of chemicals needed for the science experiment.",
+    "While explaining the day's lesson, the teacher, with a smile, carefully navigated through the excited crowd of students. She reached the cluttered shelf, gently pushed aside some papers, and began taking bottles of colorful chemicals, carefully checking each label to ensure safety for the upcoming science experiment. As she picked each bottle, she held them up slightly, using them to visually engage the students, pointing out the substances they would be working with."
+  ],
+  "gathering_up_bag": [
+    "Ms. Johnson was gathering up her bag from beneath the desk at the front of the classroom as students filed out.",
+    "As students filed out of the bustling classroom, Ms. Johnson was carefully gathering up her bag, strewn with papers and books, from beneath the cluttered desk at the front.",
+    "As students filed out, chatting and laughing at the end of the class, Ms. Johnson bent down, her hand brushing past loose pens and sticky notes, to gather up her bag from beneath the cluttered desk. She paused occasionally to respond with a smile or a nod to students saying goodbye, her other hand smoothing down stray papers that threatened to spill over as she packed up her belongings."
+  ],
+  "drinking": [
+    "Ms. Johnson is drinking coffee at her desk while grading papers in the classroom.",
+    "Ms. Johnson is drinking hot coffee from her favorite mug at her desk, occasionally pausing to grade papers while her students quietly work on their assignments in the classroom.",
+    "Ms. Johnson, seated comfortably at her desk, sips slowly from her favorite steamy mug of coffee, her eyes scanning the room over its rim. She occasionally nods in approval or offers a gentle smile as she observes her students deeply engrossed in their assignments, marking their papers with thoughtful annotations. Every now and then, she leans forward to answer a student's query or to adjust a stack of books, seamlessly integrating her role as a guide while enjoying her coffee."
+  ],
+  "taking_photos": [
+    "\"Mr. Johnson is taking photos of the students during the art class presentation in the classroom.\"",
+    "\"Mr. Johnson is taking photos of the students displaying their artwork, while their classmates eagerly watch, during the art class presentation in the classroom.\"",
+    "\"Mr. Johnson, kneeling to get the perfect angle, is taking photos of the students displaying their colorful artwork, while their classmates gather around, some pointing and others whispering in admiration, during the art class presentation in the sunlit classroom.\""
+  ],
+  "listening_to_music": [
+    "The student is listening to music through headphones while sitting at a desk in the classroom.",
+    "The student is quietly listening to music through headphones while sitting at a desk in the classroom, occasionally nodding along to the beat as her classmates around her focus on their assignments.",
+    "The student is discreetly listening to music through headphones, subtly tapping her foot to the rhythm as she sits at the back of the classroom. She occasionally glances up from her notebook to watch the teacher explaining the lesson, nodding subtly in understanding while blending into the busy classroom environment."
+  ],
+  "discussing": [
+    "The teacher is discussing the importance of Shakespeare's plays with the students in the bustling high school classroom.",
+    "The teacher, standing at the front of the bustling high school classroom, is actively discussing the importance of Shakespeare's plays with the engaged students, who are taking notes and asking questions.",
+    "The teacher, pacing slowly in front of the whiteboard cluttered with notes about Shakespeare\u2019s plays, gestures emphatically towards quotes projected on the screen as she discusses their significance. Engaged students, leaning forward in their seats, follow along intently, some raising their hands to ask insightful questions while others nod in understanding, scribbling notes in their bustling high school classroom."
+  ],
+  "setting_equipment": [
+    "The teacher is setting up the equipment in the science lab for today's experiment.",
+    "The teacher is carefully setting up the microscope and slides in the science lab, as curious students gather around the table eager to begin today's experiment.",
+    "The teacher, standing by a cluttered lab table, is meticulously adjusting the microscope while attentively answering the students' enthusiastic questions. She occasionally nods and smiles, encouraging their curiosity as she hands out slides to the eager group gathered tightly around her."
+  ],
+  "taking_bag": [
+    "A student at the back of the classroom is taking their bag from the shelf.",
+    "A student at the back of the classroom is taking their bag from the shelf, carefully avoiding bumping into a classmate who is tying their shoelaces.",
+    "A student at the back of the classroom is gingerly taking their bag from the shelf, carefully stepping over backpacks strewn across the floor. They glance over their shoulder, giving a quick, apologetic smile to a classmate after accidentally grazing their arm in the crowded space."
+  ],
+  "blackboard_writing": [
+    "The teacher is writing on the blackboard in front of the classroom.",
+    "The math teacher is writing equations on the blackboard while students attentively watch and take notes in the classroom.",
+    "The math teacher, chalk in hand, is writing equations on the blackboard, periodically turning to face the class, making eye contact, and checking for understanding. She gestures with the chalk to emphasize key points, inviting questions as students lean forward in their seats, nodding and jotting down notes."
+  ],
+  "blackboard_wiping": [
+    "Ms. Thompson is wiping the chalk off the blackboard in her brightly lit classroom.",
+    "Ms. Thompson is meticulously wiping the chalk dust off the blackboard while her students attentively watch, eagerly waiting to solve the next math problem in their brightly lit classroom.",
+    "Ms. Thompson, standing steadily on her tiptoes, stretches to erase the top of the blackboard, leaving no trace of chalk behind. As she wipes, she glances over her shoulder, offering a reassuring smile to her students, who scribble notes and whisper guesses about the upcoming math problem in their brightly lit classroom."
+  ],
+  "taking_off": [
+    "The teacher is taking off her coat as she enters the busy classroom.",
+    "The teacher is taking off her coat as she enters the busy classroom, handing it to a student who hangs it on a coat rack by the door.",
+    "As the teacher enters the busy classroom, she smiles warmly at the students, who are eagerly watching her. She carefully takes off her coat, engaging in a brief conversation about the day's lesson. Handing her coat to a helpful student by the door, she gestures towards the coat rack, her eyes scanning the room to assess the students' readiness for the day's activities."
+  ],
+  "student_demonstrating": [
+    "The student is demonstrating a chemistry experiment in front of the class using a Bunsen burner and test tubes.",
+    "The student is demonstrating a chemistry experiment at the front of the classroom, carefully mixing chemicals in test tubes under the watchful eyes of his peers and the guidance of the chemistry teacher.",
+    "The student stands confidently at the front of the classroom, leaning slightly over a lab table strewn with test tubes and beakers. With focused precision, she carefully pours a solution from one test tube to another, her eyes flicking up occasionally to meet those of her classmates, ensuring they follow each step. The chemistry teacher, standing nearby, nods approvingly, making small gestures to emphasize key points of the demonstration, as the rest of the class watches with rapt attention."
+  ],
+  "eating": [
+    "The teacher is eating an apple at her desk during the lunch break in the classroom.",
+    "The teacher is eating a freshly sliced apple at her desk, sharing pieces with curious students during the lunch break in the classroom.",
+    "The teacher, seated comfortably at her desk, leans slightly forward to offer slices of her freshly cut apple to the eager students gathered around. As she eats, she nods and smiles, engaging in light conversation with the students about their ongoing projects, creating a lively and interactive atmosphere in the classroom."
+  ],
+  "reviewing": [
+    "The teacher is reviewing the students' essays in the brightly lit classroom.",
+    "The teacher, standing at the front of the brightly lit classroom, is diligently reviewing the students' essays while providing helpful feedback to each student individually.",
+    "The teacher, perched on the edge of her desk in the front of the brightly lit classroom, leans forward to hand back marked essays to the students, occasionally adjusting her glasses as she peers down to make detailed notes. She nods encouragingly and offers occasional smiles as she engages with students, answering their questions and clarifying her comments, creating a positive and interactive learning environment."
+  ],
+  "handsup": [
+    "The teacher hands up the chalk in the busy classroom.",
+    "The teacher hands up the chalk to a student at the front of the busy classroom, while other students watch eagerly.",
+    "As the teacher hands up the chalk to a student at the front of the busy classroom, she stretches slightly over her desk, brushing past the stacks of papers. She makes eye contact and offers an encouraging nod, engaging the eager student who eagerly stretches out his hand to receive it, while other students lean forward in their seats, attentively following the exchange."
+  ],
+  "speaking": [
+    "The teacher, standing at the front of the classroom, is speaking to the students about the history of art.",
+    "The teacher, standing at the front of the brightly-lit classroom, is speaking animatedly to the curious students about the history of art, while pointing at the colorful images projected on the screen.",
+    "The teacher, leaning slightly forward with enthusiasm at the front of the brightly-lit classroom, is speaking passionately to the attentive students about the history of art. As she highlights key points, she gestures towards the vivid images projected on the screen and occasionally peers over her glasses to gauge the students' reactions, ensuring they are engaged and understanding the material."
+  ],
+  "picking_up_computers": [
+    "The IT technician is picking up computers in the middle school classroom to update the software.",
+    "The IT technician is carefully picking up computers from each student's desk in the middle school classroom to update the software, while students gather around, curious about the process.",
+    "The IT technician, kneeling beside each student's desk, gently picks up the computers in the bustling middle school classroom. With a reassuring smile, he explains the update process to the intrigued students gathered around, occasionally pointing to the screens to highlight what will change."
+  ]
+}
