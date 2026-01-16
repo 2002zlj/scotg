@@ -3,6 +3,10 @@
 This repository contains implementation code for SCOTG.
 
 ## Environment 
+NVIDIA GeForce RTX 3090
+Ubuntu 20.04.6 LTS
+CUDA 11.8
+
 Firstly, install the environments
 ```
 conda env create -f environment.yml
