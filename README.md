@@ -59,6 +59,7 @@ Our project is based on
 - [l2p-pytorch](https://github.com/JH-LEE-KR/l2p-pytorch) 
 - [dualprompt-pytorch](https://github.com/JH-LEE-KR/dualprompt-pytorch) 
 - [PriViLege](https://github.com/KU-VGI/PriViLege)
+- [ZSCL](https://github.com/Thunderbeee/ZSCL/tree/main)
 - [cpe-clip](https://github.com/neuraptic/cpe-clip)
   
 We sincerely thanks to offering useful public code base.
