@@ -21,11 +21,11 @@ conda env create -f environment.yml
 ## Dataset and model weights
 Download the dataset and replace all places in the code that use the dataset path with your own data path.
 
-The dataset is <a href="https://pan.baidu.com/s/11RrKBcM08elbQu8K9vQU7Q">here</a> and the password is nrut
+The dataset is <a href="https://pan.baidu.com/s/11RrKBcM08elbQu8K9vQU7Q">here</a> and the password is “nrut”.
 
 Download the model weights for each method and place them in their respective folders
 
-The model weights are <a href="https://pan.baidu.com/s/13tln4r4XLClqzlorPhAWww">here</a> and the password is 1l4b
+The model weights are <a href="https://pan.baidu.com/s/13tln4r4XLClqzlorPhAWww">here</a> and the password is “1l4b”.
 
 ## Experiment
 ```
