@@ -20,8 +20,6 @@ from continual_clip.dynamic_dataset import DynamicDataset
 from dataclasses import dataclass, field
 import transformers
 from typing import Dict, Optional, Sequence, List
-# from cpe_clip.models import  CLIPParameterEfficient_classroom
-# from cpe_clip.models_llava import  CLIPParameterEfficient_llava_CLIP
 from transformers import CLIPModel,CLIPProcessor,CLIPTokenizer
 from cosine_annealing_warmup import CosineAnnealingWarmupRestarts
 from transformers.modeling_attn_mask_utils import _create_4d_causal_attention_mask, _prepare_4d_attention_mask
