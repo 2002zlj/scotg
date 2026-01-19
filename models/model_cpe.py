@@ -491,29 +491,11 @@ class FSCIL_classrroom_CPE(nn.Module):
             
         # text
         classnames = get_class_names(self.classes_names, self.class_ids_per_task[task_id])
-        texts0 = [self.prompt_template.format(c) for c in classnames]
-        texts1 = [self.relations[c][0] for c in classnames]
-        texts2 = [self.relations[c][1] for c in classnames]
-        texts3 = [self.relations[c][2] for c in classnames]
+        texts = [self.prompt_template.format(c) for c in classnames]
  
-        out_text_tokens0 = self.text_preprocess(texts0, padding=True, return_tensors="pt")
-        texts0 = out_text_tokens0["input_ids"].to(self.device)
-        attn_mask0 = out_text_tokens0["attention_mask"].to(self.device)    
-
-        out_text_tokens1 = self.text_preprocess(texts1, padding=True, return_tensors="pt")
-        texts1 = out_text_tokens1["input_ids"].to(self.device)
-        attn_mask1 = out_text_tokens1["attention_mask"].to(self.device)       
-
-        out_text_tokens2 = self.text_preprocess(texts2, padding=True, return_tensors="pt")
-        texts2 = out_text_tokens2["input_ids"].to(self.device)
-        attn_mask2 = out_text_tokens2["attention_mask"].to(self.device)   
-
-        out_text_tokens3 = self.text_preprocess(texts3, padding=True, return_tensors="pt")
-        texts3 = out_text_tokens3["input_ids"].to(self.device)
-        attn_mask3 = out_text_tokens3["attention_mask"].to(self.device)   
-
-        texts = [texts0,texts1,texts2,texts3]
-        attn_mask = [attn_mask0,attn_mask1,attn_mask2,attn_mask3]
+        out_text_tokens = self.text_preprocess(texts, padding=True, return_tensors="pt")
+        texts = out_text_tokens["input_ids"].to(self.device)
+        attn_mask = out_text_tokens["attention_mask"].to(self.device)    
 
         # start training
         self.model.train()
